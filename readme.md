@@ -42,7 +42,7 @@
 
 1. **Редактирование кода в GitHub**
 
-    1. Откройте вкладку Code и с помощью кнопки "Add file" добавьте новый файл `Pages.md`. Прочитайте статьи [[1](https://solvery.io/blog/ru/interesting/github-pages-chto-eto-i-kak-ispolzovat-instrukcziya-dlya-novichkov/)] и [[2](https://www.reg.ru/blog/poshagovaya-instruktsiya-kak-sdelat-besplatnyj-sajt-na-github-pages/)]и опишите своими словами возможности сервиса GitHub Pages  (3-10 предложений).
+    1. Откройте вкладку Code и с помощью кнопки "Add file" добавьте новый файл `Pages.md`. Прочитайте статьи [[1](https://solvery.io/blog/ru/interesting/github-pages-chto-eto-i-kak-ispolzovat-instrukcziya-dlya-novichkov/)] и [[2](https://www.reg.ru/blog/poshagovaya-instruktsiya-kak-sdelat-besplatnyj-sajt-na-github-pages/)] и опишите своими словами возможности сервиса GitHub Pages  (3-10 предложений).
 
 
 1. **Работа с Projects**
@@ -51,8 +51,8 @@
 
     1. Откройте вкладку Projects и создайте новый проект с отображением в виде таблицы.
 
-    1. Добавьте три строки и выберите созданные в п.2 Issues и выберите состояние и исполнителя.
+    1. Добавьте три строки и выберите созданные в п.2 Issues и выберите исполнителя и статус.
 
     1. Добавьте новое представление (View) с отображением в виде колонок.
 
-    1. Войдите в настройки проекта и переведите названия статусов на русский язык.
+    1. Войдите в настройки проекта (через меню `…` в правом верхнем углу), измените видимость на `Public` и в разделе `Status` переведите названия статусов на русский язык.
